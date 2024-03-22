@@ -64,7 +64,7 @@ The `init.js` file initializes the application by binding control functions to u
 
 ## Running the Project
 
-To run the project, simply run the commands 'npm install' and ' 'npm start' and it will open the `index.html` file in your web browser and start exploring and enjoying the available recipes.
+To run the project, simply run the commands **'npm install'** and ' **'npm start'** and it will open the `index.html` file in your web browser and start exploring and enjoying the available recipes.
 
 ---
 
